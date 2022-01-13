@@ -1,0 +1,28 @@
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.exe
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.deps.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.runtimeconfig.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.runtimeconfig.dev.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.csproj.AssemblyReference.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.AssemblyInfoInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.AssemblyInfo.cs
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.csproj.CoreCompileInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.genruntimeconfig.cache
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.exe
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.deps.json
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.runtimeconfig.json
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.runtimeconfig.dev.json
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.dll
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\bin\Debug\netcoreapp3.1\projetDevinette.pdb
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.csproj.AssemblyReference.cache
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.GeneratedMSBuildEditorConfig.editorconfig
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.AssemblyInfoInputs.cache
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.AssemblyInfo.cs
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.csproj.CoreCompileInputs.cache
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.dll
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.pdb
+C:\PATRICK BACK-END\2021-10-31 projet2\Projet-2-Shell-main\Projet-2-Shell-main\projetDevinette\obj\Debug\netcoreapp3.1\projetDevinette.genruntimeconfig.cache

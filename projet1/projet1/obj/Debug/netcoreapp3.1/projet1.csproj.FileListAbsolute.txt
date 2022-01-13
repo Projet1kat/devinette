@@ -1,0 +1,28 @@
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfoInputs.cache
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfo.cs
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.CoreCompileInputs.cache
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.exe
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.deps.json
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.json
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.dev.json
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.dll
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.pdb
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.dll
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.pdb
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.genruntimeconfig.cache
+C:\PATRICK BACK-END\2021-10-21\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.AssemblyReference.cache
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.exe
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.deps.json
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.json
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.runtimeconfig.dev.json
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.dll
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\bin\Debug\netcoreapp3.1\projet1.pdb
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.AssemblyReference.cache
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfoInputs.cache
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.AssemblyInfo.cs
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.csproj.CoreCompileInputs.cache
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.dll
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.pdb
+C:\PATRICK BACK-END\2021-10-21 projet 1\projet1\projet1\obj\Debug\netcoreapp3.1\projet1.genruntimeconfig.cache

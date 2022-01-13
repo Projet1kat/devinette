@@ -1,0 +1,15 @@
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.exe
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.deps.json
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.runtimeconfig.json
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.runtimeconfig.dev.json
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.dll
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ref\ProjetJeuPOO.dll
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\bin\Debug\net5.0\ProjetJeuPOO.pdb
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.AssemblyInfoInputs.cache
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.AssemblyInfo.cs
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.csproj.CoreCompileInputs.cache
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.dll
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ref\ProjetJeuPOO.dll
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.pdb
+C:\_ProjetBackEndLeFun_\ProjetFirdaous\ProjetBingo-main\ProjetJeuPOO\obj\Debug\net5.0\ProjetJeuPOO.genruntimeconfig.cache
